@@ -1,0 +1,29 @@
+body {
+  background-color: #fbe2e5;
+  font-family: fantasy;
+}
+article {
+  background-color: #fabea7;
+  font-family: fantasy;
+  color: aliceblue;
+}
+
+h1 {
+  font-family: fantasy;
+  color: #9cada4;
+  text-align: center;
+}
+img {
+  width: 140px;
+  height: 160px;
+  border-radius: 50%;
+  margin-left: 45%;
+  margin-right: 45%;
+}
+
+#sandals {
+  background-image: url(./river.jpg);
+}
+.dotted {
+  border-bottom: dotted red;
+}
